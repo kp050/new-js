@@ -1,4 +1,4 @@
-/* 
+/* Two ways of function creation:
 1. function declaration
 2. function expression 
 */

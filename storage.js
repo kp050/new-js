@@ -6,12 +6,13 @@
 // let can be re-initialized.
 // let and const are blocked scope: we cannot access the value outside the block.
 
-// const cannot be redeclared.
-// const cannot be re-initialized
+// const cannot be re-declared.
+// const cannot be re-initialized.
 // let and const are blocked scope: we cannot access the value outside the block.
 
 {
   var name = "shreya";
+  var name = "prabha";
   console.log(name);
 }
 console.log(name);

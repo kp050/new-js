@@ -12,8 +12,11 @@ console.log("city:" + city);
 const country = "India";
 console.log("country:" + country);
 
+//function
 function hello() {
   console.log("first function");
 }
+hello(); //function call
 
-hello();
+// shortcut for single line comment-> ctrl + /
+// multiline comment -> alt + shift + a

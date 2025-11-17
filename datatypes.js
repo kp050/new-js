@@ -1,5 +1,5 @@
 /* datatypes:
-1. primitive datatype: Number, String, Boolean, null, undefined, array, BigInt. 
+1. primitive datatype: Number, String, Boolean, null, undefined, BigInt. 
 2. non-primitive datatype: object, symbol
  */
 
