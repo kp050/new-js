@@ -16,3 +16,11 @@
   console.log(name);
 }
 console.log(name);
+
+console.log(x);
+var x; // undefined
+
+// temperal dead zone: You cannot use a let or const variable before it is declared in the code. so the variable will be in the tempered dead zone.
+// If you try to use it early, JavaScript gives a ReferenceError.
+console.log(x);
+let x;
