@@ -20,8 +20,4 @@ console.log(String(123)); // '123'
 console.log(Boolean("123")); // true
 console.log(Boolean("")); //false (for empty string)
 
-console.log(x);
-var x; // undefined
 
-console.log(x);
-let x;
