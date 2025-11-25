@@ -91,3 +91,4 @@ let obj2 = {
   model: 17,
 };
 console.log(Object.assign(obj, obj2)); // if the property exist in both object then it modifies it and if property not exist in one object then it adds the object
+
